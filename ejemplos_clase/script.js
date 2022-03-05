@@ -5,8 +5,8 @@
  * Funciones 1: Estructura y diseño básico.
  * Este archivo sirve como borrador con el código visto en la clase.
  */
-var numero1 = 0;
-var numero2 = 0;
+let numero1 = 0;
+let numero2 = 0;
 
 function inputData() {
     const numero1 = parseInt(prompt("Ingrese un número para analizar"));
