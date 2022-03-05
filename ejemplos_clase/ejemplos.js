@@ -15,7 +15,7 @@ function nombreDeLaFuncion() {
 }
 
 // Aplicación
-var x = 1;
+const x = 1;
 if (x == 1) {
     nombreDeLaFuncion();
 }
@@ -26,7 +26,7 @@ function cuadrado(x) {
 }
 
 // Aplicación de la función
-var numero = 10;
+const numero = 10;
 console.log(`El cuadrado del número ${numero} es: ` + cuadrado(numero));
 
 function alertMessage() {
