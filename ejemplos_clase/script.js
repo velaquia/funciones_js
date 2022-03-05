@@ -22,7 +22,7 @@ function paridad(a, b) {
     let paridadA = "";
     let paridadB = "";
     if ((a % 2) == 0){
-        if (a == 0) {
+        if (a === 0) {
             paridadA = "Nulo";
         } else {
             paridadA = "Par";
@@ -31,8 +31,8 @@ function paridad(a, b) {
         paridadA = "Impar";
     }
 
-    if ((b % 2) == 0) {
-        if (b == 0) {
+    if ((b % 2) === 0) {
+        if (b === 0) {
             paridadB = "Nulo";
         } else {
             paridadB = "Par";
