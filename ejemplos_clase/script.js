@@ -20,7 +20,7 @@ function promedio(a, b) {
 
 function paridad(a, b) {
     let paridadA = "";
-    let paridadB = ""
+    let paridadB = "";
     if ((a % 2) == 0){
         if (a == 0) {
             paridadA = "Nulo";
