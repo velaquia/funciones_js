@@ -28,7 +28,8 @@ function cuadrado(x) {
 // Aplicación de la función
 const numero = 10;
 const numeroCuadrado = cuadrado(numero);
-console.log(`El cuadrado del número ${numero} es: ${numeroCuadrado}`);
+console.log("El cuadrado del número ingresado es: " + x * x); // sin template string
+console.log(`El cuadrado del número ${numero} es: ${numeroCuadrado}`);  // con template string
 
 function alertMessage() {
     alert("Presionaste el botón!");
