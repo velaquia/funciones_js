@@ -10,14 +10,13 @@ let variableGlobal = 30;
 
 function pruebaContexto() {
     let variableLocal = 10;
-
     alert(`Valor global: ${variableGlobal}`)
 }
 
-let variableGlobal = 15;
+variableGlobal = 15;
 
 pruebaContexto();
 
-let variableGlobal = 50;
+variableGlobal = 50;
 
 pruebaContexto();

@@ -9,8 +9,8 @@ let numero1 = 0;
 let numero2 = 0;
 
 function inputData() {
-    const numero1 = parseInt(prompt("Ingrese un número para analizar"));
-    const numero2 = parseInt(prompt("Ingrese otro número para analizar"));
+    numero1 = parseInt(prompt("Ingrese un número para analizar"));
+    numero2 = parseInt(prompt("Ingrese otro número para analizar"));
     alert(`Se ha ingresado el número ${numero1} y el número ${numero2}`);
 }
 

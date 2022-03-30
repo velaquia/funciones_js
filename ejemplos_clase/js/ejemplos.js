@@ -32,7 +32,7 @@ console.log("El cuadrado del número ingresado es: " + x * x); // sin template s
 console.log(`El cuadrado del número ${numero} es: ${numeroCuadrado}`);  // con template string
 
 function alertMessage() {
-    alert("Presionaste el botón!");
+    alert("Se llamó a la función alertMessage!");
 }
     
 function showText(x) {
