@@ -3,7 +3,6 @@
 /* Inove Coding School
  * Ejemplos de código de clase.
  * Funciones 1: Estructura y diseño básico.
- * Este archivo sirve como borrador con el código visto en la clase.
  */
 let numero1 = 0;
 let numero2 = 0;

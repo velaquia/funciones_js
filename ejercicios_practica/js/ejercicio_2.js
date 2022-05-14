@@ -1,17 +1,16 @@
 "use strict";
 
 /* Inove Coding School
- * Ejercicios de código de clase.
- * Funciones 1: Estructura y diseño básico.
- * Este archivo sirve como borrador con el código visto en la clase.
+ * Ejercicios de funciones
  */
 
 // Ejercicios con funciones
 
 function promedio(numero1, numero2) {
     console.log("Funcion promedio")
-    // En esta función debe determinar cual de los dos
-    // números ingresados por parámetro es mayor
+    // En esta función debe determinar el promedio
+    // de los dos números ingresados por consola
+    // Deberá calcular el promedio
     // y luego imprimir dicho valor en consola
 }
 

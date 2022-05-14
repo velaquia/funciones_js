@@ -1,9 +1,7 @@
 "use strict";
 
 /* Inove Coding School
- * Ejercicios de código de clase.
- * Funciones 1: Estructura y diseño básico.
- * Este archivo sirve como borrador con el código visto en la clase.
+ * Ejercicios de funciones
  */
 
 // Ejercicios con funciones

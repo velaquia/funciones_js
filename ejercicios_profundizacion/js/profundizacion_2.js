@@ -1,11 +1,10 @@
 /**
- * @fileoverview Ejercitación de módulo 5: Funciones 1 - Estrutura y diseño básico
+ * @fileoverview Ejercitación de Funciones
  * @author       Inove coding School <alumnos@inove.com.ar>
  * @copyright    www.inove.com.ar
  *
  * Consignas:
- * Realizar una copia del archivo ejercitación, modificar su contenido y enlazarlo
- * con index.html
+ * Deberá enlazar este archivo javascript al documento HTML.
  * Del ejercicio visto en clase, realizar los cambios necesarios para que el sistema
  * admita:
  * 
