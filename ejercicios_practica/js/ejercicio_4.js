@@ -14,7 +14,7 @@ Esta función no recibe ningún paraḿetro de entrada
 Está función retorna una variable como retorno de salida
 
 Dentro de esa función el sistema deberá solicitar
-al usuario por consola que ingrese tres nombres de 
+al usuario por prompt que ingrese tres nombres de 
 tres invitados.
 
 IMPORTANTE: Utilizar un "prompt" por cada invitado

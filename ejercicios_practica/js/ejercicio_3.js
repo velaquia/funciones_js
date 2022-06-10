@@ -13,7 +13,7 @@ Alumno: Crear la función "generarInvitados"
 Esta función no recibe ningún paraḿetro de entrada
 
 Dentro de esa función el sistema deberá solicitar
-al usuario por consola que ingrese tres nombres de 
+al usuario por prompt que ingrese tres nombres de 
 tres invitados.
 
 IMPORTANTE: Utilizar un "prompt" por cada invitado
