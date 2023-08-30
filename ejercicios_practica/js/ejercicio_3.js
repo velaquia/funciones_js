@@ -6,7 +6,16 @@
 
 // Ejercicios con funciones
 
-// function generarInvitados()
+function generarInvitados() {
+    let invitado = '';
+    let i = 0;
+    while (i < 3) {
+        invitado = (prompt('Ingrese un invitado:'));
+        console.log(invitado);
+        i += 1;
+    }
+}
+
 
 /*
 Alumno: Crear la función "generarInvitados"

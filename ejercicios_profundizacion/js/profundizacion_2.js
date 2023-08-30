@@ -13,3 +13,20 @@
  *    Según la cantidad especificada utilice condicionales para solicitar la cantidad de nombres
  *    correctos.
 */
+let invitados = ''
+
+function generarInvitados(repeticion) {
+    let invitados = '';
+    let i = 0;
+    while (i < repeticion) {
+        invitados = invitados.concat(prompt('Ingrese un invitado: '));
+        invitados = invitados.concat(', ')
+        i += 1;
+    }
+   
+    return invitados
+}
+
+repeticion = parseInt(prompt('ingrese cantidad de invitados requeridos:' ));
+invitados = generarInvitados(repeticion);
+console.log(`Mis invitados: ${invitados}`)

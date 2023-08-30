@@ -3,10 +3,20 @@
 /* Inove Coding School
  * Ejercicios con funciones
  */
-
+let invitados = ''
 // Ejercicios con funciones
 
-// function generarInvitados()
+function generarInvitados() {
+    let invitados = '';
+    let i = 0;
+    while (i < 3) {
+        invitados = invitados.concat(prompt('Ingrese un invitado: '));
+        invitados = invitados.concat(', ')
+        i += 1;
+    }
+   
+    return invitados
+}
 
 /*
 Alumno: Crear la función "generarInvitados"
